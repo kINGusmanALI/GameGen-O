@@ -15,6 +15,7 @@ It is the first diffusion transformer model tailored for the generation of open-
 (*Equal Contribution;✉Co-corresponding Authors)
 
 [![Project Page](https://img.shields.io/badge/Project-Website-green)](https://gamegen-o.github.io/)
+[![YouTube Channel](https://img.shields.io/badge/YouTube-Channel-red?logo=youtube)](https://www.youtube.com/@GameGen-O)
 ## Next
 
 - [ ] Release GameGen-O checkpoints and inference scripts
